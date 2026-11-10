@@ -1,0 +1,13 @@
+{
+  "skills": [
+    {
+      "name": "self-learning-skills",
+      "version": "1",
+      "files": [
+        "SKILL.md",
+        "assets/SKILL.template.md",
+        "references/skill-authoring.md"
+      ]
+    }
+  ]
+}
